@@ -9,10 +9,10 @@ This repository contains solutions to the Farmer-for-Forest assignment. Each que
 ### Solution Overview:
 - **Integration:** Google Sheet <-> Python <-> Streamlit
 - **Files:**
-  - **`Testcase_Reflection.py`:**  
+  - **`Stramlit_app1.py`:**  
     - Select a farmer's name to display key parameters on the dashboard.
     - Provides warnings if incorrect entries are detected in the Google Sheet.
-  - **`Interactive_Visualization.py`:**  
+  - **`Stramlit_app2.py`:**  
     - Visualizes data and charts interactively.
     - Includes filter options for enhanced data exploration.
 
